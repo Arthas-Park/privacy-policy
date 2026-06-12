@@ -51,6 +51,8 @@
 
 개인정보 처리에 관한 문의사항은 아래 연락처로 문의해 주세요.
 
+- **개발자:** Arthas-Park
+- **이메일:** afnitel@naver.com
 - **GitHub:** [https://github.com/Arthas-Park](https://github.com/Arthas-Park)
 
 ---
@@ -85,4 +87,6 @@ We do **not** share any personal information with third parties.
 
 For any questions regarding this privacy policy, please contact us via:
 
+- **Developer:** Arthas-Park
+- **Email:** afnitel@naver.com
 - **GitHub:** [https://github.com/Arthas-Park](https://github.com/Arthas-Park)
